@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.headercontent {
+  display: flex;
+  padding-left: 2rem;
+  background: black;
+  height: 18rem;
+  gap: 2rem;
+}
+
+.headercontent h1 {
+  padding: 1rem;
+  text-align: left;
+  color: white;
+}
+
+.headercontent p {
+  color: white;
+  text-align: justify;
+}
+
+.coin {
+  display: flex;
+  justify-content: center;
+}
+
+.aprender {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  width: 60rem;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+}
+
+.aprender img {
+  border-radius: 0.5rem;
+}
